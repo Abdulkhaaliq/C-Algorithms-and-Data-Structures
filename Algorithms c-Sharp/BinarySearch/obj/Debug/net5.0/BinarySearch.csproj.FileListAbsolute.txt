@@ -1,0 +1,15 @@
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\bin\Debug\net5.0\BinarySearch.exe
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\bin\Debug\net5.0\BinarySearch.deps.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\bin\Debug\net5.0\BinarySearch.runtimeconfig.dev.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\bin\Debug\net5.0\BinarySearch.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\bin\Debug\net5.0\ref\BinarySearch.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\bin\Debug\net5.0\BinarySearch.pdb
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\obj\Debug\net5.0\BinarySearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfoInputs.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\obj\Debug\net5.0\BinarySearch.AssemblyInfo.cs
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\obj\Debug\net5.0\BinarySearch.csproj.CoreCompileInputs.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\obj\Debug\net5.0\BinarySearch.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\obj\Debug\net5.0\ref\BinarySearch.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\obj\Debug\net5.0\BinarySearch.pdb
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinarySearch\obj\Debug\net5.0\BinarySearch.genruntimeconfig.cache

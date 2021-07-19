@@ -1,0 +1,16 @@
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\bin\Debug\net5.0\LinearSearch.exe
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\bin\Debug\net5.0\LinearSearch.deps.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\bin\Debug\net5.0\LinearSearch.runtimeconfig.dev.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\bin\Debug\net5.0\LinearSearch.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\bin\Debug\net5.0\ref\LinearSearch.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\bin\Debug\net5.0\LinearSearch.pdb
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.AssemblyReference.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\LinearSearch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfoInputs.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\LinearSearch.AssemblyInfo.cs
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\LinearSearch.csproj.CoreCompileInputs.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\LinearSearch.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\ref\LinearSearch.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\LinearSearch.pdb
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\LinearSearch\obj\Debug\net5.0\LinearSearch.genruntimeconfig.cache

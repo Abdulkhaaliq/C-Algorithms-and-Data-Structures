@@ -14,17 +14,16 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Abdul\\source\\repos\\Algorithms c-Sharp\\QuickSort\\QuickSort.csproj",
+      "projectUniqueName": "C:\\Github\\C-Algorithms-and-Data-Structures\\Algorithms c-Sharp\\QuickSort\\QuickSort.csproj",
       "projectName": "QuickSort",
-      "projectPath": "C:\\Users\\Abdul\\source\\repos\\Algorithms c-Sharp\\QuickSort\\QuickSort.csproj",
+      "projectPath": "C:\\Github\\C-Algorithms-and-Data-Structures\\Algorithms c-Sharp\\QuickSort\\QuickSort.csproj",
       "packagesPath": "C:\\Users\\Abdul\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Abdul\\source\\repos\\Algorithms c-Sharp\\QuickSort\\obj\\",
+      "outputPath": "C:\\Github\\C-Algorithms-and-Data-Structures\\Algorithms c-Sharp\\QuickSort\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
       ],
       "configFilePaths": [
-        "C:\\Users\\Abdul\\NuGet.Config",
         "C:\\Users\\Abdul\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -33,7 +32,7 @@
         "net5.0"
       ],
       "sources": {
-        "https://aka.ms/maui-preview/index.json": {},
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
