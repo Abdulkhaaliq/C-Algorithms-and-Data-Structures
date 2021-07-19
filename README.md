@@ -4,9 +4,11 @@ Langauge
 - C-Sharp
 
 Algorithms thus far:
--Bubble sort 
--Quick Sort
-
+- Bubble sort 
+- Quick Sort
+- Linear Search
+- Binary Search
 
 Data Structures so far:
--Linked List
+- Linked List
+- Binary Tree
