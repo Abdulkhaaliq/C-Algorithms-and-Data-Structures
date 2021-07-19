@@ -6,7 +6,9 @@ Langauge
 Algorithms thus far:
 - Bubble sort 
 - Quick Sort
-
+- Linear Search
+- Binary Search
 
 Data Structures so far:
 - Linked List
+- Binary Tree
