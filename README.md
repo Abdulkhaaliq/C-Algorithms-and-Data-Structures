@@ -3,6 +3,9 @@
 Langauge
 - C-Sharp
 
+Application built in:
+- Console App
+
 Algorithms thus far:
 - Bubble sort 
 - Quick Sort
@@ -12,3 +15,4 @@ Algorithms thus far:
 Data Structures so far:
 - Linked List
 - Binary Tree
+- Graph
