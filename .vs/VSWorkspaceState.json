@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\Algorithms c-Sharp"
+    "\\Algorithms c-Sharp",
+    "\\Algorithms c-Sharp\\Graphs"
   ],
-  "SelectedNode": "\\Algorithms c-Sharp\\Algorithms c-Sharp.sln",
+  "SelectedNode": "\\Algorithms c-Sharp\\Graphs\\Program.cs",
   "PreviewInSolutionExplorer": false
 }
