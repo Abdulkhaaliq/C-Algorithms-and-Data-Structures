@@ -1,0 +1,16 @@
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\bin\Debug\net5.0\BinaryTree.exe
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\bin\Debug\net5.0\BinaryTree.deps.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\bin\Debug\net5.0\BinaryTree.runtimeconfig.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\bin\Debug\net5.0\BinaryTree.runtimeconfig.dev.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\bin\Debug\net5.0\BinaryTree.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\bin\Debug\net5.0\ref\BinaryTree.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\bin\Debug\net5.0\BinaryTree.pdb
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\BinaryTree.csproj.AssemblyReference.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\BinaryTree.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\BinaryTree.AssemblyInfoInputs.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\BinaryTree.AssemblyInfo.cs
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\BinaryTree.csproj.CoreCompileInputs.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\BinaryTree.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\ref\BinaryTree.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\BinaryTree.pdb
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\BinaryTree\obj\Debug\net5.0\BinaryTree.genruntimeconfig.cache
