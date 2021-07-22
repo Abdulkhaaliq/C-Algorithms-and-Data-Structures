@@ -1,0 +1,15 @@
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.exe
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.deps.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.runtimeconfig.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.runtimeconfig.dev.json
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\bin\Debug\net5.0\ref\QueueDataStructure.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\bin\Debug\net5.0\QueueDataStructure.pdb
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.AssemblyInfoInputs.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.AssemblyInfo.cs
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.csproj.CoreCompileInputs.cache
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\obj\Debug\net5.0\ref\QueueDataStructure.dll
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.pdb
+C:\Github\C-Algorithms-and-Data-Structures\Algorithms c-Sharp\QueueDataStructure\obj\Debug\net5.0\QueueDataStructure.genruntimeconfig.cache
