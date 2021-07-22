@@ -16,3 +16,4 @@ Data Structures so far:
 - Linked List
 - Binary Tree
 - Graph
+- Queue
